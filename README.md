@@ -33,7 +33,6 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
 
 # PROGRAM
 ```
-PROGRAM:
 #include <stdio.h>
 #include <string.h>
 int main() {
@@ -72,8 +71,8 @@ int main() {
 }
 ```
 # OUTPUT
+![image](https://github.com/user-attachments/assets/41916dc4-3712-4133-a161-b918cb7db162)
 
-![image](https://github.com/user-attachments/assets/5ea6feb3-c59f-41df-98a3-85c401cad6b0)
 
 # RESULT
 The program was executed successfully.
